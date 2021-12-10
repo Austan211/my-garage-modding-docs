@@ -16,7 +16,7 @@ After the base software is installed, it will ask you which are your Workloads, 
 
 ![Photo that shows which individial components you have to select](../images/installVS/Untitled3.png)
 
-When the installation finishes you will be asked to log in into a Microsoft Account. If you already had Visual Studio before (any version) and you used a Microsoft Account you might want to use it again since it will restore most of your personal preferences. Now you have to install the modding template. You can download it [here](../files/ModdingTemplate.vsix), after downloading it just open it and accept the installation.
+When the installation finishes you will be asked to log in into a Microsoft Account. If you already had Visual Studio before (any version) and you used a Microsoft Account you might want to use it again since it will restore most of your personal preferences. Now you have to install the modding template. You can download it [here](https://github.com/FedeArre/my-garage-modding-docs/raw/main/docs/files/ModdingTemplate.vsix), after downloading it just open it and accept the installation.
 
 ![Photo that shows the install button that has to be pressed](../images/installVS/Untitled5.png)
 
