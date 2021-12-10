@@ -13,8 +13,3 @@ Also remember that most of your questions can be answered using Google!
 * Explanations of the game's internals.
 
 If you find any issue or want to suggest some content to be added you can open an issue in [GitHub](https://github.com/FedeArre/my-garage-modding-docs/issues)
-
-##### Credits
-This guide would not be possible without the help of the following people:
-* Horsey4, he helped me a lot when i was starting in the modding. Also is the developer of the ModLoader. 
-* mbdriver for answering all the questions i had about the game's code (and also developing the game i guess).
