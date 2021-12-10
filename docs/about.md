@@ -5,3 +5,5 @@ This page would not be possible without the help of the following people:
 * mbdriver for answering all the questions i had about the game's code (and also developing the game i guess).
 
 Did you find any issue in the docs or want to add something? [Write here](https://github.com/FedeArre/my-garage-modding-docs/issues)
+
+This is still a work in progress - Expect changes and new sections soon!
