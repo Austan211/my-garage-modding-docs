@@ -1,3 +1,3 @@
-<h1 class="white" >Using AssetBundles</h1>
+<h1 class="white" >Section under construction</h1>
 
-[Download Unity Hub]()
+Will be available very soon!
