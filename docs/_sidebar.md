@@ -8,7 +8,7 @@
 - Game's internals
   - [The ModLoader](game/modloader.md)
   - [The saving system and the mod issue](game/saver.md)
-<!--  - [Movable items](game/items.md)-->
+  - [Pickable items](game/items.md)
   - [The tools class](game/tools.md)
   - [The weather](game/weather.md)
   - [Car grip system](game/grip.md)
