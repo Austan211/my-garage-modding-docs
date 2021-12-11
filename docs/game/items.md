@@ -24,3 +24,5 @@ Also, the last one is an interesting property: IsFurniture - It makes the item u
 ```cs
     moveItem.IsFurniture = true;
 ```
+
+Note that this is only for items - Car parts use the Pickup class!
