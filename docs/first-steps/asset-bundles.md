@@ -13,13 +13,15 @@ You will have to log in in order to download. Creating an account is free and al
 
 ![Photo showing Unity Hub asking for license](../images/assetbundles/Untitled2.png)
 
-You have to agree with the personal license terms of service to continue. After this you have to go to Installs section and press "Install editor". Here you need to select the 2020.3 version (you don't have to install Visual Studio 2019 if you installed the 2022 version - Just make sure that .cs files are opened with it by default)
+You have to agree with the personal license terms of service to continue. After this you have to go into Unity Archive, select Unity 2020.x and go until you find the Unity 2020.3.0 version, then press the "Unity Hub" button of the version. It will ask to open Unity Hub, accept it and it will show the install manager of the hub.
 
-![Photo showing Unity Hub in the install editor with the 2020.3 version](../images/assetbundles/Untitled4.png)
+![Photo showing Unity Archive with the 2020.3.0 version](../images/assetbundles/Untitled3.png)
 
-After installing (it will take a while) you will see the following
+![Photo showing the install prompt in Unity Hub](../images/assetbundles/Untitled4.png)
 
-![Photo showing Unity Hub the download of the 2020.3 version succesfully finished](../images/assetbundles/Untitled5.png)
+When the installation is completed it will show the following
+
+![Photo showing the install complete message in Unity Hub](../images/assetbundles/Untitled5.png)
 
 Now you have to go to the Projects and press "Create Project". Select the name that you want and make sure to select 3D.
 
