@@ -13,7 +13,7 @@ You will have to log in in order to download. Creating an account is free and al
 
 ![Photo showing Unity Hub asking for license](../images/assetbundles/Untitled2.png)
 
-You have to agree with the personal license terms of service to continue. After this you have to go into Unity Archive, select Unity 2020.x and go until you find the Unity 2020.3.0 version, then press the "Unity Hub" button of the version. It will ask to open Unity Hub, accept it and it will show the install manager of the hub.
+You have to agree with the personal license terms of service to continue. After this you have to go into [Unity Archive](https://unity3d.com/get-unity/download/archive), select Unity 2020.x and go until you find the Unity 2020.3.0 version, then press the "Unity Hub" button of the version. It will ask to open Unity Hub, accept it and it will show the install manager of the hub.
 
 ![Photo showing Unity Archive with the 2020.3.0 version](../images/assetbundles/Untitled3.png)
 
