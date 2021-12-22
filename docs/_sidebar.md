@@ -16,6 +16,7 @@
 
 - SimplePartLoader
   - [Introduction](spl/introduction.md)
+  - [Installation](spl/installation.md)
   - [Adding a car part](spl/car-part.md)
   - [Transparents (part attaching)](spl/transparents.md)
   

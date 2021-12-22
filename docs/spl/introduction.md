@@ -18,3 +18,4 @@ SimplePartLoader is **not** capable of:
 The mod was developed by Federico Arredondo. Special thanks to BrennFuchS for the caching resources feature and mbdriver for letting me add custom car part support into game's saves loader!
 
 If you have any kind of issue with the loader or want to do any suggestion please use the [issues section in Github](https://github.com/FedeArre/SimplePartLoader/issues)
+You can download it in [NexusMods](https://www.nexusmods.com/mygarage/mods/7)
